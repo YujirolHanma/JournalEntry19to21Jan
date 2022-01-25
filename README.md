@@ -7,8 +7,7 @@ second code journal for CPNT-260-A
 - got used to different symbols and various shortcut keys e.g #### {2}
 2. still working on memorizing and gettimg familiar with the commonly used codes
 
-## fortunately as i had gone through a handful of videos given by mr.tony 
-i hadnt come across much bugs just a few syntax errors which were pretty easy to catch on to .
+## fortunately as i had gone through a handful of videos given by mr.tony i hadnt come across much bugs just a few syntax errors which were pretty easy to catch on to .
 
 # Reflection: 
 i still have a long way to go before i wouldnt need to resort to google searches to figure out certain code paterns 
