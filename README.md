@@ -8,7 +8,7 @@ second code journal for CPNT-260-A
 2. still working on memorizing and gettimg familiar with the commonly used codes
 
 ## fortunately as i had gone through a handful of videos given by mr.tony 
-## i hadnt come across much bugs just a few syntax errors which were pretty easy to catch on to .
+i hadnt come across much bugs just a few syntax errors which were pretty easy to catch on to .
 
 # Reflection: 
 i still have a long way to go before i wouldnt need to resort to google searches to figure out certain code paterns 
@@ -22,4 +22,4 @@ and certain shortcuts but by the next journal entry i wish to understand most of
 
 # sources:
 * https://www.typing.com/student/tests {1}
-*https://docs.github.com/en/get-started/using-github/keyboard-shortcuts {2}
+* https://docs.github.com/en/get-started/using-github/keyboard-shortcuts {2}
